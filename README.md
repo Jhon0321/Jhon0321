@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    <a href="#" title="WhatsApp" href="https://wa.me/5584998669329">
+    <a href="#" title="[WhatsApp](https://wa.me/5584998669329)" href="">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
