@@ -16,6 +16,9 @@
   <img align="center" alt="jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
 </div>
+<p>
+  
+</p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jhon0321&show_icons=true&theme=synthwave"
